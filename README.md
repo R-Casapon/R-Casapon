@@ -5,17 +5,8 @@
 </p>
 <br>
 <div align="center">
-  
-  ![telux](https://github.com/R-Casapon/R-Casapon/assets/125414141/96214f91-4cca-42e1-b828-3c2875e0ef60)
-  <br>
-  <a href="https://www.telux.cl/">
-    https//www.telux.cl
-  </a>
-</div>
-<div align="center">
-
-  ![estrella](https://github.com/R-Casapon/R-Casapon/assets/125414141/ea8a7fbb-5cb7-4928-a632-43724a2c5118)
-  <p>Juego Infinito de Estrella para Pre-Codicon</p>
+  <img height=230 width="370" src="https://github.com/R-Casapon/R-Casapon/assets/125414141/96214f91-4cca-42e1-b828-3c2875e0ef60">
+  <img height=230 width="400" src="https://github.com/R-Casapon/R-Casapon/assets/125414141/ea8a7fbb-5cb7-4928-a632-43724a2c5118">
 </div>
 <div align="center">
   <a href="https://github.com/R-Casapon/github-readme-stats">
