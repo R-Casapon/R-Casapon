@@ -14,6 +14,10 @@
   </a>
 </div>
 <br><br><br>
+<h3>Mis Herramientas🛠️: <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"> <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"> <img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a></h3>
+<br>
+<h3>Puedes encontrarme en 🚀: <img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <a href="[https://instagram.com/bad_boy_official2](https://www.instagram.com/ramon.vasquez/)"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></h3>
+<br><br><br>
 <div align="center">
   <a href="https://github.com/R-Casapon/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-Casapon&card_width=200" />
