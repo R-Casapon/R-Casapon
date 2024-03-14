@@ -19,10 +19,10 @@
 </div>
 <div align="center">
   <a href="https://github.com/R-Casapon/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-Casapon" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=R-Casapon&card_width=200" />
   </a>
   <a href="https://github.com/R-Casapon/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Casapon&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Casapon&layout=compact&langs_count=8&card_width=200" />
   </a>
 
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>Gracias por tu tiempo</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
