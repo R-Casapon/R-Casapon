@@ -24,8 +24,6 @@
   <a href="https://github.com/R-Casapon/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=R-Casapon&layout=compact&langs_count=8&card_width=320" />
   </a>
-</div>
-<br>
-<div align="center">
+
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b>Gracias por tu tiempo</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </div>
