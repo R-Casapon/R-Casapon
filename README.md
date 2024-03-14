@@ -21,7 +21,6 @@
 <br>
 
 <h3>Metodos de Contacto 📨: <a href="mailto:ramon.vasquez.avila@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href = "https://discord.gg/MBR2K76V"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a> </h3>
-<br><br><br>
 <div align="center">
   <a href="https://github.com/R-Casapon/github-readme-stats">
     <img height=270 width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=R-Casapon&card_width=200" />
