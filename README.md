@@ -10,7 +10,7 @@
     <img height=250 width="390" src="https://github.com/R-Casapon/R-Casapon/assets/125414141/96214f91-4cca-42e1-b828-3c2875e0ef60">
   </a>
   <a href="https://github.com/R-Casapon/Pre-Codicon">
-    <img height=250 width="410" src="https://github.com/R-Casapon/R-Casapon/assets/125414141/ea8a7fbb-5cb7-4928-a632-43724a2c5118">
+    <img height=230 width="410" src="https://github.com/R-Casapon/R-Casapon/assets/125414141/ea8a7fbb-5cb7-4928-a632-43724a2c5118">
   </a>
 </div>
 <br><br><br>
