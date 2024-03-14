@@ -20,7 +20,7 @@
 <h3>Puedes encontrarme en 🚀: <a href="https://web.facebook.com/ramon.vasquuez"><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://www.instagram.com/ramon.vasquez/"><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></h3>
 <br>
 
-<h3>Metodos de Contacto 📨: <a href="mailto:ramon.vasquez.avila@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href = "https://discordapp.com/users/885073575839670302"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a> </h3>
+<h3>Metodos de Contacto 📨: <a href="mailto:ramon.vasquez.avila@gmail.com"><img alt="Gmail" title="Jaydeep Yadav Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href = "https://discord.gg/MBR2K76V"><img width="100px" alt = "Discord" src = "https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"/></a> </h3>
 <br><br><br>
 <div align="center">
   <a href="https://github.com/R-Casapon/github-readme-stats">
